@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Rikhtaar
-subtitle: Rikhtaar design group
+title: ریختار
+subtitle: گروه طراحی ریختار
 description: Design and implementation of orginal ideas in a comibnation of art and science
 author: Arash Taheri
 language: fa
@@ -100,7 +100,7 @@ search:
   azure_query_key: 
 
 # Miscellaneous
-google_analytics: 
+google_analytics: UA-114580414-1
 favicon: /images/favicon.png
 
 # Less
