@@ -24,6 +24,20 @@ if (btn != null) {
 }
 
 
+// SMOOCH
+
+Smooch.init({
+    appId: '5887b80011b0ab3300f7028e',
+    customText: {
+        headerText: 'سلام. چطور می‌تونم کمکتون کنم؟',
+        inputPlaceholder: 'پیام خودتون رو بنویسید ...',
+        sendButtonText: 'ارسال'
+    }
+}).then(function() {
+    // Your code after init is complete
+});
+
+
 
 var swiper = new Swiper('.swiper-container', {
     // Enable lazy loading
