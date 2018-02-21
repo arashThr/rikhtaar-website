@@ -18,7 +18,30 @@ hexo.extend.tag.register('slides', function(args) {
   }
 
   return `
-  <div dir="ltr" class="row my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
-    ${pics}
-  </div>`;
+    <div dir="ltr" class="row my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
+      ${pics}
+    </div>`;
+});
+
+hexo.extend.tag.register('order', function (args) {
+  let link = args[0];
+
+  if (link == null) 
+    return `
+      <!-- Trigger/Open The Modal -->
+      <a id="myBtn" class="btn btn-secondary">سفارش</a>
+      
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+          <span class="close">&times;</span>
+          <p>امکان سفارش در حال حاضر مقدور نیست و به زودی فعال می‌شود.</p>
+          <p>از اینکه صبورانه همراه ما هستید متشکریم.</p>
+        </div>
+      
+      </div>`;
+
+  return `<a class="btn btn-secondary" href="${link}" target="_blank">سفارش</a>`
 });
