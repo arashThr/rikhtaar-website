@@ -29,7 +29,7 @@ hexo.extend.tag.register('order', function (args) {
   if (link == null) 
     return `
       <!-- Trigger/Open The Modal -->
-      <a id="myBtn" class="btn btn-secondary">سفارش</a>
+      <a id="myBtn" class="btn btn-secondary float-left">سفارش</a>
       
       <!-- The Modal -->
       <div id="myModal" class="modal">
@@ -43,5 +43,5 @@ hexo.extend.tag.register('order', function (args) {
       
       </div>`;
 
-  return `<a class="btn btn-secondary" href="${link}" target="_blank">سفارش</a>`
+  return `<a class="btn btn-secondary float-left" href="${link}" target="_blank">سفارش</a>`
 });
