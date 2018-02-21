@@ -38,25 +38,11 @@ Smooch.init({
 });
 
 
+//
+// PhotoSwipe
+//
 
-var swiper = new Swiper('.swiper-container', {
-    // Enable lazy loading
-    lazy: true,
-    pagination: {
-      el: '.swiper-pagination',
-      clickable: true,
-    },
-    navigation: {
-      nextEl: '.swiper-button-next',
-      prevEl: '.swiper-button-prev',
-    },
-  });
-
-
-
-
-
-  var initPhotoSwipeFromDOM = function(gallerySelector) {
+var initPhotoSwipeFromDOM = function(gallerySelector) {
 
     // parse slide data (url, title, size ...) from DOM elements 
     // (children of gallerySelector)
