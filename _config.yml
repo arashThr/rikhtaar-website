@@ -101,7 +101,7 @@ search:
 
 # Miscellaneous
 google_analytics: 
-favicon: /favicon.png
+favicon: /images/favicon.png
 
 # Less
 less:
