@@ -31,6 +31,28 @@
 		 url('../fonts/ttf/iranyekanwebregular.ttf') format('truetype');
 }
 
+/* Vazir font */
+
+@font-face {
+	font-family: vazir;
+	font-style: normal;
+	font-weight: normal;
+	src: url('../fonts/vazir/Vazir.eot');
+	src: url('../fonts/vazir/Vazir.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/vazir/Vazir.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/vazir/Vazir.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: vazir;
+	font-style: normal;
+	font-weight: bold;
+	src: url('../fonts/vazir/Vazir-Bold.eot');
+	src: url('../fonts/vazir/Vazir-Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+		 url('../fonts/vazir/Vazir-Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/vazir/Vazir-Bold.ttf') format('truetype');
+}
+
 /* Latin fonts (Roboto) */
 
 @font-face {
