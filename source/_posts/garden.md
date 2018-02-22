@@ -30,4 +30,4 @@ tags:
 - یک دست شمع اضافی
 - زیرانداز جیر
 
-{% order https://www.payping.ir/d/RWjV %}
+{% order https://www.payping.ir/d/RWjV ۹۵ %}

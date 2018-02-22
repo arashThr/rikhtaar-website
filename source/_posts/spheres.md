@@ -40,4 +40,4 @@ tags:
 - یک دست شمع اضافی
 - سه عدد زیری چوبی
 
-{% order https://www.payping.ir/d/QFS4 %}
+{% order https://www.payping.ir/d/QFS4 ۷۰ %}

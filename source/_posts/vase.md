@@ -31,4 +31,4 @@ tags:
 - گلدان به همراه گیاه
 - تکه جداکننده پایه‌ها
 
-{% order https://www.payping.ir/d/4tPh %}
+{% order https://www.payping.ir/d/4tPh ۱۳۰ %}

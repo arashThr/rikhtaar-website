@@ -43,5 +43,8 @@ hexo.extend.tag.register('order', function (args) {
       
       </div>`;
 
-  return `<a class="btn btn-secondary float-left" href="${link}" target="_blank">سفارش</a>`
+  return `<div class="float-left">
+    <p>${args[1]} هزار تومان</p>
+    <a class="btn btn-secondary" href="${link}" target="_blank">سفارش</a>
+  </div>`;
 });
