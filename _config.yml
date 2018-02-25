@@ -12,8 +12,8 @@ timezone: Asia/Tehran
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://arashthr.github.io/rikhtaar/
-root: /rikhtaar/
+url: http://rikhtaar.ir
+root: /
 permalink: :title/
 permalink_defaults:
 
