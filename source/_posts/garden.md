@@ -1,7 +1,7 @@
 ---
 title: ریختار دوم
 subtitle: باغ-آتشگاه
-date: 2018-02-14 23:35:29
+date: 2018-02-12 23:35:29
 cover_image: "garden/garden.jpg"
 tags:
 ---
