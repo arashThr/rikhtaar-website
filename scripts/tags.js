@@ -63,8 +63,8 @@ hexo.extend.tag.register('order', function (args) {
   از اینکه در این مسیر با ما همراه شده‌اید صمیمانه سپاسگذاریم.<br>
   گروه ریختار</p>
           <div>
-              <a class="btn btn-secondary" href="${link}" target="_blank">سفارش اینترنتی</a>
-              <a class="btn btn-secondary" href="https://t.me/rikhtaarbot" target="_blank">پرداخت در محل</a>        
+              <a class="btn btn-secondary sell-btn" href="${link}" target="_blank">سفارش اینترنتی</a>
+              <a class="btn btn-secondary sell-btn" href="https://t.me/rikhtaarbot" target="_blank">پرداخت در محل</a>        
           </div>
       </div>
   </div>`;

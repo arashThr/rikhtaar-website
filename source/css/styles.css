@@ -23,6 +23,10 @@ button, input, text, textarea {
 	font-family: 'iranyekan', sans-serif
 }
 
+.sell-btn {
+	margin-top: 10px;
+}
+
 button:hover {
 	color: #000;
 	border: solid #000 2px;
@@ -180,18 +184,6 @@ h1, h2, h3 {
 	margin: 0 10px;
 	color: #000;
 }
-
-/* Move menu to the left */
-.navbar.navbar-toggleable-sm.navbar-light{ 
-	padding-left: 0; }
-	
-.navbar .navbar-collapse.collapse {
-	display: block !important; }
-	
-.navbar .navbar-nav.ml-auto.my-auto {
-	float: left;
-}
-
 
 
 
