@@ -1,3 +1,5 @@
+var sizeOf = require('image-size');
+
 hexo.extend.tag.register('slides', function(args) {
   var id = args[0];
 
@@ -5,16 +7,21 @@ hexo.extend.tag.register('slides', function(args) {
 
   let name = args[0]
   let len = parseInt(args[1]);
-  let size = args[2] || '1600x1066';
 
   for (let i = 1; i<=len; i++) {
-    pics += `
-    <figure class="col-md-5 itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
-      <a href="${hexo.config.root}${name}/${name}_${i}.jpg" itemprop="contentUrl" data-size="${size}">
-          <img src="${hexo.config.root}${name}/thumbs/${name}_${i}.jpg" itemprop="thumbnail" alt="Image description" />
-      </a>
-      <!-- <figcaption itemprop="caption description">Image caption  1</figcaption> -->
-    </figure>`
+    var filename = `source/_posts/${name}/${name}_${i}.jpg`;
+    try {
+      let dims = sizeOf(filename);
+      pics += `
+        <figure class="col-md-5 itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+          <a href="${hexo.config.root}${name}/${name}_${i}.jpg" itemprop="contentUrl" data-size="${dims.width}x${dims.height}">
+              <img src="${hexo.config.root}${name}/thumbs/${name}_${i}.jpg" itemprop="thumbnail" alt="Image description" />
+          </a>
+          <!-- <figcaption itemprop="caption description">Image caption  1</figcaption> -->
+        </figure>`
+    } catch (err) {
+      console.error('Error in size');
+    }  
   }
 
   return `
