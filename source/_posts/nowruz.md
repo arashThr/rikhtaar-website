@@ -22,5 +22,6 @@ cover_image: "nowruz/nowruz.jpg"
 - ۹ مکعب بتنی
 - زیرانداز جیر
 - دو عدد شمع 
+- دو عدد پیاله سرامیکی 
 
 {% order https://ppng.ir/d/cxTh ۸۰ %}
