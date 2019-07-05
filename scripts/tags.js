@@ -20,7 +20,7 @@ hexo.extend.tag.register('slides', function(args) {
           <!-- <figcaption itemprop="caption description">Image caption  1</figcaption> -->
         </figure>`
     } catch (err) {
-      console.error('Error in size');
+      console.error('Error in size', err);
     }  
   }
 
