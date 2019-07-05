@@ -24,4 +24,4 @@ cover_image: "nowruz/nowruz.jpg"
 - دو عدد شمع 
 - دو عدد پیاله سرامیکی 
 
-{% order https://ppng.ir/d/cxTh ۸۰ %}
+{% sale https://artziba.com/product/324-%D9%87%D9%81%D8%AA-%D8%B3%DB%8C%D9%86 %}

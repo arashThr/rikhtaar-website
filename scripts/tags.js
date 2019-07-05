@@ -76,3 +76,9 @@ hexo.extend.tag.register('order', function (args) {
       </div>
   </div>`;
 });
+
+
+hexo.extend.tag.register('sale', function (args) {
+  let link = args[0];
+  return `<a href="${link}" target="_blank" class="btn btn-secondary float-left">سفارش</a>`
+});

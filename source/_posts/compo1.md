@@ -27,4 +27,4 @@ A variation of light, smell, color and taste.
 - دو عدد شمع 
 - دو عدد پیاله سرامیکی 
 
-{% order https://www.payping.ir/d/IN66 ۸۰ %}
+{% sale https://artziba.com/product/326-%DA%A9%D9%85%D9%BE%D9%88%D8%B2%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1 %}

@@ -40,4 +40,4 @@ tags:
 - یک دست شمع اضافی
 - سه عدد زیری چوبی
 
-{% order https://www.payping.ir/d/QFS4 ۷۰ %}
+{% sale https://artziba.com/product/152-%D8%B1%DB%8C%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B1%D8%AE%D8%B4%D8%A7%D9%86 %}

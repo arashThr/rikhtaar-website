@@ -26,4 +26,4 @@ Louis Kahn
 محتویات بسته:
 - جاقلمی
 
-{% order https://www.payping.ir/d/ZjJs ۵۰ %}
+{% sale https://artziba.com/product/325-%D8%B3%D9%86%DA%AF-%D9%85%D8%B9%D9%85%D8%A7%D8%B1 %}

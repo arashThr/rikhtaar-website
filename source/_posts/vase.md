@@ -32,4 +32,4 @@ tags:
 - تکه جداکننده پایه‌ها
 - زیرانداز جیر
 
-{% order https://www.payping.ir/d/4tPh ۱۳۰ %}
+{% sale https://artziba.com/product/323-%D8%B1%DB%8C%D8%AE%D8%AA%D8%A7%D8%B1-%D9%85%D8%B9%D8%A8%D8%AF-%D8%B3%D8%A8%D8%B2 %}

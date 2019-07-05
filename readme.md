@@ -2,6 +2,8 @@
 hexo new nowruz
 hexo clean && hexo g
 hexo serve
+# To publish
+hexo deploy
 ```
 
 - Compress images with http://optimizilla.com/
