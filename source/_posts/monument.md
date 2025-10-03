@@ -1,23 +1,23 @@
 ---
-title: ریختار هفتم
-subtitle: مونومان
+title: Rikhtaar Seventh
+subtitle: Monument
 date: 2019-07-05 14:30:07
 cover_image: "monument/monument.jpg"
 tags:
 ---
- 
-مونومان تجسمی است از یک منظر. مجسمه ای پر از فضا که با فضای اطرافش ترکیب می شود. هر فضا بخشی از طرحی بزرگتر و مدولار است و هر ترکیبی از تکه ها در آن ممکن است. جاشمعی و جامدادی، عودسوز و گلدان تزئینی و زیرسیگاری دردار هم هستند که روی سطحی از چوب، گرد هم می آیند.
 
-{% slides monument 6 %}	
+Monument is an embodiment of a perspective. A sculpture full of space that merges with its surrounding space. Each space is part of a larger, modular design where any combination of pieces is possible. There are candle holders and pen holders, incense burners and decorative planters, and ashtrays too, all coming together on a wooden surface.
+
+{% slides monument 6 %}
 
 <hr class="style-two">
 
-### مشخصات فنی:
+### Technical Specifications:
 
-- متریال: بتن به همراه چوب روسی و چوب بالسا
-- سبک هنری: بروتالیسم 
-- وزن تقریبی: ۸ الی ۱۰ کیلوگرم
-- ابعاد: ۲۵ در ۲۷ سانتی متر
-- ارتفاع بدون گیاه: ۲۰ سانتی متر
+- Material: Concrete with Russian wood and balsa wood
+- Artistic style: Brutalism
+- Approximate weight: 8 to 10 kg
+- Dimensions: 25 × 27 cm
+- Height without plant: 20 cm
 
-{% sale https://artziba.com/product/636-%D9%85%D8%AC%D8%B3%D9%85%D9%87-%D8%AF%DA%A9%D9%88%D8%B1%DB%8C-%D9%85%D9%88%D9%86%D9%88%D9%85%D8%A7%D9%86 %}
+{% sale Monument Sculpture %}

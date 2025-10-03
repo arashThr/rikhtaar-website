@@ -1,35 +1,34 @@
 ---
-title: ریختار سوم
-subtitle: معبد سبز
+title: Rikhtaar Third
+subtitle: Green Temple
 date: 2018-02-13 23:35:29
 cover_image: "vase/vase.jpg"
 tags:
 ---
-مهربانانه آب دهید
-به مشتی خاک برای گیاهی 
-که به تمنای حیات
-بر اوج بلورین 
-معبدی است.
-و معبد کجا باشد 
-جز آنجایی که تاج حیات بر پایه های لطف آرام میگیرد....
+Water kindly
+a handful of soil for a plant
+that in hope of life
+upon the crystalline peak
+is a temple.
+And where is the temple
+but where the crown of life rests gently on pillars of grace...
 
 <hr class="style-two">
- 
-ریختار سوم تجربه دیگری است در ترکیب مصالح، شفافیت و صلیبت، لطافت و سختی.
-این ترکیب آنجا که گیاهی را چنان مائده ای آسمانی انگار با دستانی نامرئی در اوج به چنگ آورده است، خیال‎وار، چنان معبدی است که به عهدی مقدس برپاست...روزی یک جرعه آب بهای زیستن....
 
-{% slides vase 4 %}	
+Rikhtaar Third is another experiment in material composition, transparency and solidity, delicacy and hardness. This composition, where a plant appears as if some heavenly feast caught by invisible hands at the peak, dreamlike, is such a temple standing upon a sacred covenant...a sip of water daily, the price of living...
 
-### مشخصات فنی:
+{% slides vase 4 %}
 
-- نوع محصول: گلدان رو میزی
-- جنس: بتن، خاک، پلکسی گلاس
-- ابعاد: ۱۲ × ۱۴ × ۱۸.۵ سانتی‌متر
+### Technical Specifications:
 
-محتویات بسته:
-- دو عدد پایه بتنی
-- گلدان به همراه گیاه
-- تکه جداکننده پایه‌ها
-- زیرانداز جیر
+- Product type: Desktop planter
+- Material: Concrete, soil, plexiglass
+- Dimensions: 12 × 14 × 18.5 cm
 
-{% sale https://artziba.com/product/323-%D8%B1%DB%8C%D8%AE%D8%AA%D8%A7%D8%B1-%D9%85%D8%B9%D8%A8%D8%AF-%D8%B3%D8%A8%D8%B2 %}
+Package contents:
+- 2 concrete bases
+- Planter with plant
+- Separator piece for bases
+- Felt underlay
+
+{% sale Green Temple Planter %}

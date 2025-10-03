@@ -1,30 +1,29 @@
 ---
-title: ریختار ششم
-subtitle: کمپوزیسیون شماره ۱
+title: Rikhtaar Sixth
+subtitle: Composition Number 1
 date: 2018-04-20 12:00:00
 cover_image: "compo1/compo1.jpg"
 ---
 <div dir="ltr">
-A variation of light, smell, color and taste. 
+A variation of light, smell, color and taste.
 </div>
-واریاسیونی از نور، بو، رنگ و طعم. برای شمع، عود، زیرسیگاری و شاید چند تکه شکلات
 
 <hr class="style-two">
 
-ریختار ششم، یک نمونه از طراحی مدولار احجام بتنی است. این ترکیب از چهارحجم بتنی، می‎تواند روی میز کافه قرار گیرد، یا هر میزی که بتوان دورش نشست و دقایقی آسود. کنج طاقچه، کنار آینه، یا هر جایی که منظری به آسودگی بخواهید
+Rikhtaar Sixth is an example of modular concrete volume design. This composition of four concrete volumes can sit on a café table, or any table where one can gather and rest for a few moments. In a corner nook, beside a mirror, or anywhere you seek a view of tranquility.
 
 {% slides compo1 4 %}
 
-### مشخصات فنی:
+### Technical Specifications:
 
-- نوع محصول: ست کافه
-- جنس: بتن و سرامیک
-- ابعاد هر مکعب: ۹ در ۹ با ارتفاع متغیر
+- Product type: Café set
+- Material: Concrete and ceramic
+- Dimensions: Each cube is 9 x 9 cm with variable height
 
-محتویات بسته:
-- ۴ مکعب بتنی
-- چهارطاقی بتنی
-- دو عدد شمع 
-- دو عدد پیاله سرامیکی 
+Package contents:
+- 4 concrete cubes
+- Concrete arch piece
+- 2 candles
+- 2 ceramic bowls
 
-{% sale https://artziba.com/product/326-%DA%A9%D9%85%D9%BE%D9%88%D8%B2%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%B4%D9%85%D8%A7%D8%B1%D9%87-1 %}
+{% sale Composition Number 1 Café Set %}

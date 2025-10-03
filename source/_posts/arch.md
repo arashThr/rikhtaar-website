@@ -1,6 +1,6 @@
 ---
-title: ریختار پنجم
-subtitle: سنگ معمار
+title: Rikhtaar Fifth
+subtitle: Architect's Stone
 date: 2018-04-16 12:00:00
 cover_image: "arch/arch.jpg"
 ---
@@ -8,22 +8,20 @@ cover_image: "arch/arch.jpg"
 "Honor the material that you use … Even a Brick wants to be something."
 Louis Kahn
 </div>
-«احترام کنید آنچه را که از آن بهره می‎برید. حتّی یک آجر هم می‎خواهد به کاری بیاید.»
-لوئی کان
 
 <hr class="style-two">
 
-ریختار پنجم طرحی است در نهایت سادگی، اما عامدانه و فقط برای یک مقصود: احترام به قلم. این‎بار و در مناسبتی ویژه، این قلم از آن معمار است. روز معمار گرامی.
+Rikhtaar Fifth is a design in its utmost simplicity, yet deliberate and for a single purpose: honoring the pen. This time, on a special occasion, this pen belongs to the architect. Happy Architect's Day.
 
 {% slides arch 4 %}
 
-### مشخصات فنی:
+### Technical Specifications:
 
-- نوع محصول: قلمدان
-- جنس: بتن
-- ابعاد: قطر ۱۵ ارتفاع ۴.۵ سانتی متر
+- Product type: Pen holder
+- Material: Concrete
+- Dimensions: Diameter 15 cm, Height 4.5 cm
 
-محتویات بسته:
-- جاقلمی
+Package contents:
+- Pen holder
 
-{% sale https://artziba.com/product/325-%D8%B3%D9%86%DA%AF-%D9%85%D8%B9%D9%85%D8%A7%D8%B1 %}
+{% sale Architect's Stone Pen Holder %}

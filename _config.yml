@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ریختار
-subtitle: گروه طراحی ریختار
-description: Design and implementation of orginal ideas in a combination of art and science
+title: Rikhtaar
+subtitle: Rikhtaar Design Group
+description: Design and implementation of original ideas in a combination of art and science
 author: Arash Taheri
-language: fa
+language: en
 timezone: Asia/Tehran
 
 # URL
@@ -108,7 +108,7 @@ less:
   compress: true
 
 menu:
-  درباره: /about
-  تماس: /contact
-  اینستاگرام: https://instagram.com/rikhtaar
-  تلگرام: https://t.me/rikhtaar
+  About: /about
+  Contact: /contact
+  Instagram: https://instagram.com/rikhtaar
+  Telegram: https://t.me/rikhtaar

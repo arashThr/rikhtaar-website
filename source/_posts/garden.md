@@ -1,33 +1,32 @@
 ---
-title: ریختار دوم
-subtitle: باغ-آتشگاه
+title: Rikhtaar Second
+subtitle: Garden-Fire Temple
 date: 2018-02-12 23:35:29
 cover_image: "garden/garden.jpg"
 tags:
 ---
-زیر طاق، در فرقِ باغ
-شمعی افروخته‎است و شعله‎اش در گشایش محور تقدّس سوختن زمان را زمزمه می‎کند.  
-پایین تر در شتر گلو، نقشِ خوشِ باغ، تحویل سختیِ بتن رنگ‎  پریده به سبزِ گیاه است...
+Under the arch, in the garden's heart,
+a candle is lit and its flame, in opening the axis of sacred burning, hums the passage of time.
+Below, where the garden's pleasant pattern surrenders the harshness of faded concrete to the green of plants...
 
 <hr class="style-two">
 
-  ریختار دوم به ریخت باغ مطبّق ایرانی، ترکیبی است از گیاه و شمع و حجم‎سازی با بتن. 
-شاید جایی کنار دفتر دستکمان، فانتزی ساده‎ای از انگاره محصوره مقدّس، با دو باغچه نُقلی، روزمرگی را طعمی ببخشد. اگر حوصله‎تان کشید و به سر کبریتی شمعِ زیر چارطاق را از سر تفنّنی بی‎قید روشن کردید، شاید در مقیاس این فانتزی در گوشه میزِ کار دنیا، حضور سبز و روشنی از حیات باشد...
+Rikhtaar Second, shaped like a Persian quadrilateral garden, is a composition of plants, candles, and concrete volumes. Perhaps somewhere next to our desk, a simple fantasy of the sacred enclosure concept, with two miniature gardens, might give everyday life a special flavor. If you have the patience and light the candle under the four-arch structure with a match strike, perhaps in the scale of this fantasy in the corner of your work desk, there will be a green presence and light of life...
 
-{% slides garden 5 %}	
+{% slides garden 5 %}
 
-### مشخصات فنی:
+### Technical Specifications:
 
-- نوع محصول: شمع و گلدان رو میزی
-- جنس: بتن، خاک، پارافین
-- ابعاد: ۱۴ × ۱۵ × ۲۴ سانتی‌متر
+- Product type: Candle and desktop planter
+- Material: Concrete, soil, paraffin
+- Dimensions: 14 × 15 × 24 cm
 
-محتویات بسته:
-- پایه اصلی
-- چهارطاقی 
-- شش طاقی
-- دو عد شمع
-- یک دست شمع اضافی
-- زیرانداز جیر
+Package contents:
+- Main base
+- Four-arch structure
+- Six-arch structure
+- 2 candles
+- 1 set of spare candles
+- Felt underlay
 
-{% sale https://artziba.com/product/153-%D8%B1%DB%8C%D8%AE%D8%AA%D8%A7%D8%B1-%D8%A8%D8%A7%D8%BA-%D8%A2%D8%AA%D8%B4%DA%AF%D8%A7%D9%87 %}
+{% sale Garden-Fire Temple %}

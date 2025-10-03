@@ -1,6 +1,6 @@
 ---
-title: عملیات موفقیت آمیز بود
+title: Thank You!
 date: 2018-02-22 02:10:50
 ---
-درخواست شما با موفقیت ثبت شد. ساخته‌ی درخواستی شما در اسرع وقت برایتان ارسال خواهد شد.
-تشکر از همراهی شما.
+Thank you for expressing your interest! We've received your submission and will be in touch soon.
+We appreciate your support.

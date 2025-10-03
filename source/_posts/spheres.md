@@ -1,43 +1,39 @@
 ---
-title: ریختار یکم
-subtitle: ریختار رخشان
+title: Rikhtaar First
+subtitle: Radiant Form
 date: 2018-02-11 23:35:29
 cover_image: "spheres/spheres.jpg"
 tags:
 ---
 
-آب به تابه ریخت
-چنگ بر بتن زد
-تا به ریختی درآمد. 
-گفت
-آتشی کن
-بلکه دلمان نسوزد...
+Water poured into the mold
+gripped the concrete
+until it took shape.
+It said,
+light a fire
+so our hearts won't burn...
 
 <hr class="style-two">
 
-### ریختار پارافین و بتن به ریخت کُره سوزان
+### Paraffin and concrete in the form of a burning sphere
 
-ریختار یکم تلاشی است ساده و خالص برای اکتشاف در فرم و ترکیب مصالح.
-ریختِ کُره چون حجمی مثالی بر پایه صلب بتنی یکدست، به شعله سوزان شمعی می‎رسد که تا آب شود، 
-زمان در فاصله خطوط نرم پارافین و بتن، موسیقیِ آرامِ سوختنِ است.
-شاید این کره را جایی بگذارید نه آن‎قدر دور که نشود سوختنش را شنید و نه آن‎قدر نزدیک که پایتان 
-به آن بخورد؛ اما دورش را شلوغ نکنید. بگذارید در جهان ما گم نشود.
+Rikhtaar First is a simple and pure attempt at exploration in form and material composition. The sphere form, as an ideal volume on a solid concrete base, reaches the burning flame of a candle that until it melts, time in the space between the soft lines of paraffin and concrete is the gentle music of burning. Perhaps you can place this sphere somewhere not so far that its burning cannot be heard and not so close that your foot hits it; but don't crowd its surroundings. Let it not be lost in our world.
 
 {% slides spheres 5 %}
 
-### مشخصات فنی:
-	
-- نوع محصول: شمع رو میزی
-- جنس: بتن و پارافین
+### Technical Specifications:
 
-ابعاد:
-- شمع بزرگ: قطر ۹ سانتی متر،  ارتفاع ۹.۵ سانتی متر
-- شمع متوسط: قطر ۸ سانتی متر،  ارتفاع ۸.۵ سانتی متر
-- شمع کوچک: قطر ۵ سانتی متر،  ارتفاع ۵.۵ سانتی متر
+- Product type: Desktop candle
+- Material: Concrete and paraffin
 
-محتویات بسته:
-- سه عد پایه بتنی شمع به همراه شمع
-- یک دست شمع اضافی
-- سه عدد زیری چوبی
+Dimensions:
+- Large candle: Diameter 9 cm, Height 9.5 cm
+- Medium candle: Diameter 8 cm, Height 8.5 cm
+- Small candle: Diameter 5 cm, Height 5.5 cm
 
-{% sale https://artziba.com/product/152-%D8%B1%DB%8C%D8%AE%D8%AA%D8%A7%D8%B1-%D8%B1%D8%AE%D8%B4%D8%A7%D9%86 %}
+Package contents:
+- 3 concrete candle bases with candles
+- 1 set of spare candles
+- 3 wooden coasters
+
+{% sale Radiant Form Candles %}

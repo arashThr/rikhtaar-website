@@ -1,41 +1,17 @@
-// Get the modal
-var modal = document.getElementById('myModal');
-
-// Get the button that opens the modal
-var btn = document.getElementById("myBtn");
-if (btn != null) {
-    var span = document.getElementsByClassName("close")[0];
-
-    // When the user clicks the button, open the modal 
-    btn.onclick = function() {
-        modal.style.display = "block";
-    }
-
-    span.onclick = function() {
-        modal.style.display = "none";
-    }
-
-    // When the user clicks anywhere outside of the modal, close it
-    window.onclick = function(event) {
-        if (event.target == modal) {
-            modal.style.display = "none";
-        }
-    }
-}
-
-
 // SMOOCH
 
-Smooch.init({
-    appId: '5887b80011b0ab3300f7028e',
-    customText: {
-        headerText: 'سلام. چطور می‌تونم کمکتون کنم؟',
-        inputPlaceholder: 'پیام خودتون رو بنویسید ...',
-        sendButtonText: 'ارسال'
-    }
-}).then(function() {
-    // Your code after init is complete
-});
+if (typeof Smooch !== 'undefined') {
+    Smooch.init({
+        appId: '5887b80011b0ab3300f7028e',
+        customText: {
+            headerText: 'سلام. چطور می‌تونم کمکتون کنم؟',
+            inputPlaceholder: 'پیام خودتون رو بنویسید ...',
+            sendButtonText: 'ارسال'
+        }
+    }).then(function() {
+        // Your code after init is complete
+    });
+}
 
 
 //

@@ -1,12 +1,12 @@
 ---
-title: درباره
+title: About
 date: 2018-02-14 01:45:00
 layout: page
 ---
-# معرفی ما
+# About Us
 
-مجموعه گروه ریختار گروهی متشکل از طراحان و سازندگانی است که بیش و پیش از هر چیز، دغدغه تجربه، کارکردن مدام بر روی ایده‎ها، بهبود و در نهایت دستیابی به طرح‎های جسورانه و نو دارند. این گروه با هدف تولید و ساخت ایده‎های طراحی از مقیاس کوچک در کوتاه‎مدت تا طرح‎های بزرگ‎تر و پیچیده‎تر در بلند مدت شکل یافت. در این راستا و با توجّه به شرایط و مقدّمات لازم، کار را در قالب تمرکز بر طراحی‎های کاربردی، تزئینی و طراحی داخلی شروع کرده و به گروهی متشکل از تعدادی طراح و سازنده داوطلب تبدیل شده است. اصل مهم در مسیر کار ریختار، پایبندی به اصالت، کیفیت و گشوده بودن بر طرح‎ها، ایده‎ها و طراحان است.
+The Rikhtaar Group is a collective of designers and makers who, above all else, are concerned with experience, constantly working on ideas, improvement, and ultimately achieving bold and innovative designs. This group was formed with the goal of producing and creating design ideas from small-scale projects in the short term to larger and more complex designs in the long term. In this regard, and considering the necessary conditions and prerequisites, we started our work focusing on functional and decorative design and interior design, and have become a group consisting of several volunteer designers and makers. The important principle in Rikhtaar's path is commitment to authenticity, quality, and openness to designs, ideas, and designers.
 
-این گروه نه با سرمایه و پشتوانه‎های سرمایه‎دارانه، بلکه بر پایه همکاری طراحانه و نه صرفاً به هدف نفع اقتصادی، که در نهایت به قصد دستیابی به مدیومی منعطف برای تبدیل ایده به محصول برای طراحان تشکیل شده است. اعتقاد ما بر این است که هر قدر که بتوانیم همکاری طراحانه را در فضایی با منطق و ساز و کار طراحی و ایده‎پردازی و در امنیت نسبت به جبر بازار و سودگرایی محض گسترش داده و واقعیت ببخشیم، این منظر ایده آل می‎تواند دست یافتنی‎تر شود.
+This group was formed not with capital and capitalist backing, but based on design collaboration, and not solely for economic profit, but ultimately with the intention of achieving a flexible medium for transforming ideas into products for designers. We believe that the more we can expand design collaboration in a space with the logic and mechanism of design and ideation, and in relative security from the compulsion of the market and pure profit-seeking, the more this ideal perspective can become attainable.
 
-ریختار مشتاق تجربه و نوگرایی با مصالح و فرم‎های نوین و خلاقانه است. ریختار بر اصالت و خلاقیت تأکید دارد و اگر از طریق همکاری، امکانات و مدیومِ خود بتواند طراحیِ خوب را از ایده و به واقعیت تبدیل کند، به همه آن‎چه میخواسته، رسیده است.
+Rikhtaar is eager to experiment and innovate with new and creative materials and forms. Rikhtaar emphasizes authenticity and creativity, and if through collaboration, facilities, and its medium it can transform good design from idea to reality, it has achieved everything it wanted.

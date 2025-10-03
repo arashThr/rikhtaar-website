@@ -79,6 +79,51 @@ hexo.extend.tag.register('order', function (args) {
 
 
 hexo.extend.tag.register('sale', function (args) {
-  let link = args[0];
-  return `<a href="${link}" target="_blank" class="btn btn-secondary float-left">سفارش</a>`
+  let productName = args[0] || 'this product';
+  // Create a unique ID from product name
+  let uniqueId = productName.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
+
+  return `
+  <a href="#" class="btn btn-secondary float-left" onclick="document.getElementById('${uniqueId}-modal').style.display='block'; return false;">Express Interest</a>
+
+  <!-- The Modal -->
+  <div id="${uniqueId}-modal" class="modal" style="display:none;">
+    <!-- Modal content -->
+    <div class="modal-content interest-modal">
+      <span class="close" onclick="document.getElementById('${uniqueId}-modal').style.display='none'">&times;</span>
+      <h2 class="modal-title">Love this piece?</h2>
+      <p class="modal-description">We'd love to hear from you! Share your email and let us know you're interested in <strong>${productName}</strong>. We'll get back to you soon.</p>
+
+      <form name="interest" method="POST" netlify action="/success" class="interest-form">
+        <input type="hidden" name="form-name" value="interest" />
+        <input type="hidden" name="product" value="${productName}" />
+
+        <div class="form-group">
+          <label for="email-${uniqueId}">Your Email *</label>
+          <input type="email" id="email-${uniqueId}" name="email" required placeholder="your@email.com">
+        </div>
+
+        <div class="form-group">
+          <label for="price-${uniqueId}">What would you consider paying?</label>
+          <input type="text" id="price-${uniqueId}" name="price" placeholder="e.g., $50 (optional)">
+        </div>
+
+        <div class="form-group">
+          <label for="comments-${uniqueId}">Any questions or thoughts?</label>
+          <textarea id="comments-${uniqueId}" name="comments" rows="3" placeholder="Tell us what you're thinking... (optional)"></textarea>
+        </div>
+
+        <button type="submit" class="btn btn-primary submit-btn">Send</button>
+      </form>
+    </div>
+  </div>
+
+  <script>
+    // Close modal when clicking outside
+    document.getElementById('${uniqueId}-modal').addEventListener('click', function(e) {
+      if (e.target === this) {
+        this.style.display = 'none';
+      }
+    });
+  </script>`;
 });
