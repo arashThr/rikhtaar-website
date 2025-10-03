@@ -1,6 +1,6 @@
 ```
 hexo new nowruz
-hexo clean && hexo g
+hexo clean && hexo generate
 hexo serve
 # To publish
 hexo deploy
