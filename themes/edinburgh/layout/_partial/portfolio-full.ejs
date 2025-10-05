@@ -1,0 +1,13 @@
+<div class="hero-cover" style="background-image: url('<%- config.root %><%- item.cover_image || theme.default_cover_image %>');">
+  <div class="hero-overlay">
+    <h1 class="hero-title"><%- item.title || theme.default_post_title || "Untitled" %></h1>
+    <% if (item.subtitle) { %>
+    <p class="hero-subtitle"><%- item.subtitle %></p>
+    <% } %>
+  </div>
+</div>
+<div class="content-section">
+  <div class="col-12 portfolio-content">
+    <%- item.content %>
+  </div>
+</div>
