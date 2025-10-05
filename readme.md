@@ -6,6 +6,8 @@ hexo serve
 hexo deploy
 ```
 
+English version in `english` branch.
+
 - Compress images with http://optimizilla.com/
     - Appends `-min` to file name
 
