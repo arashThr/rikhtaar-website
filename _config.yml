@@ -6,13 +6,13 @@
 title: Rikhtaar
 subtitle: Rikhtaar Design Group
 description: Design and implementation of original ideas in a combination of art and science
-author: Arash Taheri
+author: Arash Taher
 language: en
 timezone: Asia/Tehran
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://rikhtaar.ir
+url: http://rikhtaar.arashtaher.com
 root: /
 permalink: :title/
 permalink_defaults:
@@ -80,7 +80,7 @@ theme: edinburgh
 deploy:
   type: git
   repo: https://github.com/arashThr/rikhtaar.git
-  branch: master
+  branch: english
   message: Site update
 
 # Search
