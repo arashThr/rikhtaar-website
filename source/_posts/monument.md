@@ -8,7 +8,7 @@ tags:
 
 Monument is an embodiment of a perspective. A sculpture full of space that merges with its surrounding space. Each space is part of a larger, modular design where any combination of pieces is possible. There are candle holders and pen holders, incense burners and decorative planters, and ashtrays too, all coming together on a wooden surface.
 
-{% slides monument 6 %}
+{% slides monument 5 %}
 
 <hr class="style-two">
 
